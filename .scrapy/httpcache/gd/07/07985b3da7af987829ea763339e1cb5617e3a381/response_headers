@@ -1,0 +1,17 @@
+Date: Fri, 13 Jan 2023 13:42:03 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store, private
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IldIbWMyQ0dpNlBjQXhIOSs4L0ZwMnc9PSIsInZhbHVlIjoiOUtKSE4vU0daNElrVnpFK0pSWEo0eUVBRFVENkYwWFh1cWRkQlA3YmtFbDdrLytPQ3RKTkNERjc0VjJxbnRDNkp5NGxUYm5zeHF0U1VubTZ4SkRKRUtVU0xpVmllZElhZlhrdmJlbVVLWkIwUDRVY1JreTQ3YVFoNXdNLzZLUGgiLCJtYWMiOiIyZDNmOWJjMzI1NWEzNTY2ZmRkMDc1MTQyZWM4ZGM4OTcwYmMxZjU5N2VlZDY3YTYxMjMzODU1ZWUxMTFhZGU5IiwidGFnIjoiIn0%3D; expires=Fri, 13-Jan-2023 15:42:03 GMT; path=/
+Set-Cookie: game_debate_session=eyJpdiI6InNMTW1oNWJ4WDE3Tm13eFRMYWR0YVE9PSIsInZhbHVlIjoiTFBTWWNYMi9tQXErNytnVW80czVSMU9BZ0RNb3piMjQ4VTJ4Yk15ZXg3U3ZjQ1ZJdE4vTWlqS2hNR00rb3Z2OFhpTjVlcDBWaktVZ3FJZXVycGdXM05VajhmNEZYZjdmZ0NIM2JxSW42T1VITC90L043TGpGRktYcUVKSmFoWEkiLCJtYWMiOiI2YjQyZTRkMmNkYWIyMDA0NmJiODA3NjE0ZGEzZDU1YjAwYmJhZTVjMjZkNDE2YzA4YmIwOWVhMmU0OWY3OTRhIiwidGFnIjoiIn0%3D; expires=Fri, 13-Jan-2023 15:42:03 GMT; path=/; httponly
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dO5gAqNZmBqeWvBtqQpFLwH9ljCzuioP6Rq3qwjiP0IJLdRBfY8SHE%2FSBr5ioy2FYSxPAs3aszh2%2FzJt2fad90UIahnYv5Ba7rRDuDks%2F7L98mMPASqlSpJSXkoa2Y8Xox%2BbgKU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 788e8d8b4d9ab7eb-AMS
+Content-Encoding: br
